@@ -97,3 +97,8 @@ VOCdevkit.zip
 VOCdevkit/
 VOCtrainval_11-May-2012/
 VOCtrainval_11-May-2012.tar
+
+# images and result
+config.pickle
+images/
+results_imgs/
