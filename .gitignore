@@ -91,3 +91,9 @@ ENV/
 # hdf5
 *.h5
 *.hdf5
+
+# VOC dataset
+VOCdevkit.zip
+VOCdevkit/
+VOCtrainval_11-May-2012/
+VOCtrainval_11-May-2012.tar
