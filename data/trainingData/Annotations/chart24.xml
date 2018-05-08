@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>chart24.JPG</filename>
+	<path>C:\Users\sangmin\Desktop\program\keras-frcnn\trainingData\JPEGImages\chart24.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1245</width>
+		<height>738</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>108</ymin>
+			<xmax>1114</xmax>
+			<ymax>678</ymax>
+		</bndbox>
+	</object>
+</annotation>
