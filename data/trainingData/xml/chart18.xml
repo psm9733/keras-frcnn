@@ -1,7 +1,6 @@
 <annotation>
 	<folder>JPEGImages</folder>
-	<filename>chart7.JPG</filename>
-	<path>C:\Users\sangmin\Desktop\program\keras-frcnn\trainingData\JPEGImages\chart7.JPG</path>
+	<filename>chart18.JPG</filename>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +16,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>766</xmin>
-			<ymin>197</ymin>
-			<xmax>1117</xmax>
-			<ymax>681</ymax>
+			<xmin>507</xmin>
+			<ymin>111</ymin>
+			<xmax>1115</xmax>
+			<ymax>680</ymax>
 		</bndbox>
 	</object>
 </annotation>
